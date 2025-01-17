@@ -2,12 +2,12 @@
 <html>
     <head>
 body {
-    background-color: rgb(54%, 36%, 83%); /* Obliczony procentowo RGB */
+    background-color: rgb(54%, 36%, 83%); 
 }
 
 p {
-    color: #70A25C; /* HEX na podstawie danych */
-    font-size: 20pt; /* Przykładowy rozmiar tekstu */
+    color: #70A25C; 
+    font-size: 20pt; 
 }
     </head>
 
