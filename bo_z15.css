@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+body {
+    background-color: rgb(54%, 36%, 83%); /* Obliczony procentowo RGB */
+}
+
+p {
+    color: #70A25C; /* HEX na podstawie danych */
+    font-size: 20pt; /* Przykładowy rozmiar tekstu */
+}
+    </head>
+
+    <body>
+    </body>
+
+</html>
